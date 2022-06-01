@@ -1,0 +1,19 @@
+,exchangeName,symbol,balance,createTime,balanceChange,balanceChangePercent,d7BalanceChange,d7BalanceChangePercent,d30BalanceChange,d30BalanceChangePercent,exLogo
+0,Coinbase Pro,BTC,717601.80586071,1648188575000,5241.04116871,0.74,13303.77403971,1.89,69634.33684971,10.75,https://cdn.coinglasscdn.com/static/exchanges/CoinbasePro.png
+1,Binance,BTC,574745.78445538,1648188572000,-12495.02037962,-2.13,-11220.86224762,-1.91,22712.38881938,4.11,https://cdn.coinglasscdn.com/static/exchanges/270.png
+2,Bitfinex,BTC,340490.33293263,1648188572000,-1187.03115337,-0.35,-8350.57907137,-2.39,34403.72227563,11.24,https://cdn.coinglasscdn.com/static/exchanges/bitfinex.jpg
+3,Gemini,BTC,237753.29975263,1648188577000,3276.54585663,1.4,6094.75171963,2.63,-55839.81719637,-19.02,https://cdn.coinglasscdn.com/static/exchanges/gemini.png
+4,Kraken,BTC,108652.34526237,1648188578000,851.15140637,0.79,-8906.14109263,-7.58,-31470.68526563,-22.46,https://cdn.coinglasscdn.com/static/exchanges/k.jpg
+5,Okex,BTC,70233.62594331,1648188579000,21.79586331,0.03,1412.32067731,2.05,11358.49783731,19.29,https://cdn.coinglasscdn.com/static/exchanges/OKX.png
+6,Bitmex,BTC,66557.67211039,1648188574000,-87.32717861,-0.13,-480.44225861,-0.72,780.53520539,1.19,https://cdn.coinglasscdn.com/static/exchanges/157.png
+7,bitFlyer,BTC,52510.41574854,1648188573000,-119.69181646,-0.23,-379.59430546,-0.72,-165.28411646,-0.31,https://cdn.coinglasscdn.com/static/exchanges/Bitflyer.png
+8,Bybit,BTC,32205.1946466,1648188575000,100.1964356,0.31,628.4780426,1.99,4999.3127286,18.38,https://cdn.coinglasscdn.com/static/exchanges/521.png
+9,Bittrex,BTC,30185.59646167,1648188574000,-71.90903933,-0.24,19.88060167,0.07,-1618.08767733,-5.09,https://cdn.coinglasscdn.com/static/exchanges/Bittrex.png
+10,FTX,BTC,21866.28434719,1648188576000,1791.36569519,8.92,177.24046819,0.82,1831.19587519,9.14,https://cdn.coinglasscdn.com/static/exchanges/524.png
+11,Huobi,BTC,18962.36176481,1648188577000,2308.77693281,13.86,1202.75091681,6.77,2863.73519081,17.79,https://cdn.coinglasscdn.com/static/exchanges/2502.png
+12,Bitstamp,BTC,12175.70629844,1648188574000,695.36630544,6.06,102.62654744,0.85,2141.16905744,21.34,https://cdn.coinglasscdn.com/static/exchanges/Bitstamp.png
+13,Bithumb,BTC,11532.23581909,1648188573000,21.76183609,0.19,8.60724209,0.07,28.37775709,0.25,https://cdn.coinglasscdn.com/static/exchanges/Bithumb.png
+14,Gate,BTC,7984.31525585,1648188576000,41.85809985,0.53,-523.40349815,-6.15,-634.27684615,-7.36,https://cdn.coinglasscdn.com/static/exchanges/gate.png
+15,Poloniex,BTC,1362.42048809,1648188579000,14.93584109,1.11,69.85645409,5.4,418.86059009,44.39,https://cdn.coinglasscdn.com/static/exchanges/poloniex.png
+16,Coinone,BTC,836.49396685,1648188576000,-47.20839815,-5.34,-21.53888115,-2.51,-5158.78571315,-86.05,https://cdn.coinglasscdn.com/static/exchanges/Coinone.png
+17,GOPAX,BTC,822.91170638,1648188577000,-94.32648462,-10.28,-132.43676162,-13.86,-235.66313262,-22.26,https://cdn.coinglasscdn.com/static/exchanges/GOPAX.png
